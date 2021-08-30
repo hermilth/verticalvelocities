@@ -1,7 +1,7 @@
 # verticalvelocities
 Quasi geostrophic omega equation integration on 4D arrays (t, x, y, z)
 
-This code has been developped by T. Hermilly in the frame of an internship at the IMEDEA
+This code has been developped by Thomas Hermilly in the frame of an internship at the IMEDEA
 research center in 2021. It can be mofied and used for non-lucrative purposes but must be
 properly cited.
 

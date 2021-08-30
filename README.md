@@ -2,8 +2,9 @@
 Quasi geostrophic omega equation integration on 4D arrays (t, x, y, z)
 
 This code has been developped by Thomas Hermilly in the frame of an internship at the IMEDEA
-research center in 2021, under the supervision of Simon Ruiz. It can be mofied and used for non-lucrative purposes but must be
-properly cited.
+research center in 2021, under the supervision of Simon Ruiz. It can be mofied and used for
+non-lucrative purposes but must be properly cited. The associated report can be found in the
+root folder as pdf.
 
 This project provides functions to integrate temperature and salinity 4D arrays into vertical
 velocities, using the quasi geostrophic omega equation. The finite differences are computed
